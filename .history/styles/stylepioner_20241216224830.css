@@ -1,0 +1,31 @@
+header{
+    display: grid;
+    grid-template-columns: 10% 70% 10% 10%;
+    grid-template-rows: 100px 50px;
+    align-items: center;
+    justify-items: center;
+    m
+}
+.text1{
+    display: grid;
+    grid-row: 1/2;
+    grid-column:3/4;
+}
+
+.e-mail{
+    display: grid;
+    grid-row: 2/3;
+    grid-column:3/4;
+}
+
+.text2{
+    display: grid;
+    grid-row: 1/2;
+    grid-column:4/5; 
+}
+
+.phone{
+    isplay: grid;
+    grid-row: 2/3;
+    grid-column:4/5; 
+}

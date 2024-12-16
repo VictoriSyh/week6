@@ -1,0 +1,7 @@
+header{
+    display: grid;
+    grid-template-columns: 10% 50% 1cqmax 10%;
+    align-items: center;
+    justify-items: center;
+    height: 50px;
+}
